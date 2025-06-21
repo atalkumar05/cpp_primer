@@ -25,5 +25,5 @@ Each chapter will have its own folder with:
 ## ⚙ Tools I'm Using
 
 - OS : Windows 10
-- Compilers : G++ (main),Clang & MSVC
+- Compilers : G++ (main), Clang & MSVC
 - Editor : VS Code
