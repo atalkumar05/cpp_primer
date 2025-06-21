@@ -17,7 +17,7 @@ int main()
     std::cout << "Numbers from " << min << " to " << max << " are as: " << std::endl;
     while (min <= max)
     {
-        if (min == max) //Checks for last digit to avoid "," at end
+        if (min == max) //Checks for last digit to avoid adding "," at end
         {
             std::cout << min;
             return 0;
