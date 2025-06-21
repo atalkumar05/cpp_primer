@@ -32,11 +32,8 @@ return 0;
 /*
  #include <iostream> 
 
-  
  // Simple main function:
  // Read two numbers and write their sum
-    
-      
 
  int main()
  {
