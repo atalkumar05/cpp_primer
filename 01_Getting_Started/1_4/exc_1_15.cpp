@@ -1,0 +1,49 @@
+/*
+ Exercise 1.15: Write programs that contain the common errors discussed in the box 
+ on page 16. Familiarize yourself with the messages the compiler generates
+*/
+
+/*
+ 1. Syntax Errors
+ - Mistakes in the grammar of C++ code.
+ - Examples:
+ - Missing closing parenthesis in main()
+ - Using ":" instead of ";" after a statement
+ - Missing quotes around string literals
+ - Forgetting a second output operator (<<)
+ - Missing semicolon after return
+*/
+/*
+ 2. Type Errors
+ Using a value of one type where another is expected.
+ Example: Passing a string literal ("hello") to a function expecting an int.
+*/
+/*
+ 3. Declaration Errors
+ Examples:
+ - Using variables or names that haven’t been declared.
+ - Using a variable like v that was never defined
+ - Forgetting std:: before library objects like cout or cin
+ - Misspelling variable names or function names
+*/
+
+// program with all these errors 
+
+#include <iostream>
+
+int main()
+{
+    // 1. Syntax Errors
+    igt var {}:
+    std::cout << name std::endl;
+    return 0
+
+    // 2. Type Errors
+    int num = "name";
+
+    // 3. Declaration Errors
+    cout << number;
+    int rex {};
+    std::cout << rax;
+
+}
