@@ -12,3 +12,8 @@ int main()
 {
     return -1;
 }
+
+/*
+ *Output : return -1 → program tells pwershell “something went wrong”
+ and PowerShell responds with ❌
+*/

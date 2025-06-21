@@ -20,4 +20,6 @@ int main()
    return 0;
 }
 
-
+/*
+ *Program ran successfully i.e "return 0;"
+*/
