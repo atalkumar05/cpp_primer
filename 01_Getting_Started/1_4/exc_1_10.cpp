@@ -9,7 +9,7 @@
 int main()
 {
     int num1 {10};
-    while(num1>=0)
+    while (num1>=0)
     {
         std::cout << num1 << std::endl;
         --num1;

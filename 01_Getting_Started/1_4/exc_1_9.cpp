@@ -5,7 +5,7 @@
 int main()
 {
     int num1 {50}, sum {};
-    while(num1 <= 100)
+    while (num1 <= 100)
     {
         sum += num1;
         ++num1;

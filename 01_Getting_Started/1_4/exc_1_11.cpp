@@ -15,7 +15,7 @@ int main()
     max = std::max(num1,num2); // assigns greater number to max
 
     std::cout << "Numbers from " << min << " to " << max << " are as: " << std::endl;
-    while(min <= max)
+    while (min <= max)
     {
         std::cout << min <<", ";
         ++min;
