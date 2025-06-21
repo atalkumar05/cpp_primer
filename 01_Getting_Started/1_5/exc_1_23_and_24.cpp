@@ -1,7 +1,10 @@
 /*
- Write a program that reads several transactions and counts how many 
- transactions occur for each ISBN
+ Exercise 1.23: Write a program that reads several transactions and counts how many 
+ transactions occur for each ISBN.
+ Exercise 1.24: Test the previous program by giving multiple transactions representing 
+ multiple ISBNs. The records for each ISBN should be grouped together.
 */
+
 
 #include <iostream>
 #include "Sales_item.h"
