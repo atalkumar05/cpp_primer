@@ -14,6 +14,6 @@ int main()
 }
 
 /*
- *Output : return -1 → program tells pwershell “something went wrong”
- and PowerShell responds with ❌
+ *Output: return -1 → program tells pwershell “something went wrong”
+  and PowerShell responds with ❌
 */

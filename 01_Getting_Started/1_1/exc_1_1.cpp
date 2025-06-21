@@ -21,5 +21,5 @@ int main()
 }
 
 /*
- *Program ran successfully i.e "return 0;"
+ *Output: Program ran successfully i.e "return 0;"
 */
