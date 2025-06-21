@@ -17,6 +17,11 @@ int main()
     std::cout << "Numbers from " << min << " to " << max << " are as: " << std::endl;
     while (min <= max)
     {
+        if (min == max) //Checks for last digit to avoid "," at end
+        {
+            std::cout << min;
+            return 0;
+        }
         std::cout << min <<", ";
         ++min;
     }
@@ -29,5 +34,5 @@ int main()
  20
  10
  Numbers from 10 to 20 are as: 
- 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
+ 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
 */

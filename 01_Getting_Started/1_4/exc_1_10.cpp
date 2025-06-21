@@ -11,7 +11,12 @@ int main()
     int num1 {10};
     while (num1>=0)
     {
-        std::cout << num1 << std::endl;
+        if (num1 == 0) // Checks for last digit to avoid adding "," at end
+        {
+           std::cout << num1;
+           return 0; 
+        }
+        std::cout << num1 << ", ";
         --num1;
     }
 
@@ -19,16 +24,5 @@ int main()
 }
 
 /*
- Output:
- 10
- 9 
- 8 
- 7 
- 6 
- 5 
- 4 
- 3
- 2
- 1
- 0
+ Output: 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0
 */
