@@ -14,3 +14,5 @@ int main()
 
     return 0;
 }
+
+// Output: Sum of 1 to 10 (inclusive) is: 55
