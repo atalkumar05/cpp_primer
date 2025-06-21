@@ -8,7 +8,7 @@
 */
 
 /*
- The program isn't legal, since the std::cout isn't used in two statements
+ Answer: The program isn't legal, since the std::cout isn't used in two statements
 */
 
 // Fixed as :
