@@ -7,14 +7,14 @@ int main()
     std::cout << "Enter two numbers:" << std::endl;
     int num1 {}, num2 {};
     std::cin >> num1 >> num2;
-    std::cout << "Addition of the provided numbers is:" << num1 + num2 << std::endl;
+    std::cout << "Addition of " << num1 << " and " << num2 << " is: " << num1 + num2 << std::endl;
 
     return 0;
 }
 
 /*
  Output: Enter two numbers:
- 1
- 2
- Addition of the provided numbers is:3
+ 15
+ 85
+ Addition of 15 and 85 is: 100
 */
