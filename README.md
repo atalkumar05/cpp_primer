@@ -1,7 +1,8 @@
 # 📘 C++ Primer – Code, Exercises & Notes
 
 This repo contains my personal journey through the book **C++ Primer (5th Edition)**  
-> by Barbara E. Moo, Josée Lajoie, and Stanley B. Lippman   
+> by Barbara E. Moo, Josée Lajoie, and Stanley B. Lippman
+ 
 I’m going chapter by chapter—writing code, solving exercises, and getting deep into C++ fundamentals.
 
 ---
