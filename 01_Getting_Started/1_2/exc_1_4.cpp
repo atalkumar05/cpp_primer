@@ -19,5 +19,5 @@ int main()
  Output: Enter two numbers:
  2
  99
- The multiplication of 2 and 99 is:198
+ The multiplication of 2 and 99 is: 198
 */
