@@ -6,9 +6,9 @@
 
 /*
  *Answer: I'm using G++ with version 11.2.0 on Windows.
-          The source files are named with the ".cpp" extension, and i can specify the output name using "-o"
-          flag (eg., hello.exe).
-          Otherwise the default output is a.exe.alignas
+  The source files are named with the ".cpp" extension, and I can specify the output name using "-o"
+  flag (eg., hello.exe).
+  Otherwise the default output is a.exe.
 */
 
 // main program
